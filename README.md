@@ -2,4 +2,4 @@
 
 [react_tic_tac_toe_bilaltahseen.surge.sh](http://react_tic_tac_toe_bilaltahseen.surge.sh)
 
-![Tic Tac Toe](images/screeshot.png)
+![Tic Tac Toe](images/screenshot.png)
